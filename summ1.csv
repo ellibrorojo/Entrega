@@ -1,0 +1,8 @@
+Test;Resultado;H0 descartable (Grupos son no-idénticos)
+P1 - ANOVA - Todos;0,0001;TRUE
+P1 - Wilcox  - 2-3;0,0021;TRUE
+P1 - Wilcox  - 2-6;0,0001;TRUE
+P1 - Wilcox  - 3-6;0,0288;TRUE
+P1 - Kruskal - 2-3;0,0021;TRUE
+P1 - Kruskal - 2-6;0,0001;TRUE
+P1 - Kruskal - 3-6;0,0287;TRUE

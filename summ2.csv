@@ -1,0 +1,4 @@
+Test;Resultado;H0 descartable (Grupos son no-idénticos)
+P2 - Wilcox  - 2-3;0,0196;TRUE
+P2 - Wilcox  - 2-6;0,031;TRUE
+P2 - Wilcox  - 3-6;0,3439;FALSE
